@@ -1,6 +1,5 @@
 # Data-Structures-Java
 A complete collection of fundamental data structures, including arrays, linked lists, stacks, queues, trees, graphs, and hash tables. Each structure comes with implementations, explanations, and examples to enhance problem-solving skills in Java. 🚀
-# Data Structures in Java
 
 ## Overview
 
@@ -49,7 +48,4 @@ System.out.println(stack.pop()); // Outputs: 20
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for improvements or additional data structures.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
